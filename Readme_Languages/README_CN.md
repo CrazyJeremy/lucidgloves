@@ -59,7 +59,7 @@ https://discord.gg/lucidvr
 
 想要更多信息和情报？请关注[LucidVR官方网站](http://lucidvrtech.com/). 
 *  [原型机V3/V3.1制作教程](https://youtu.be/Qj4hqRKiy8g)
-*  原型机V4的教程会很快跟进的。
+*  [原型机V4制作教程]([https://youtu.be/Qj4hqRKiy8g](https://youtu.be/2yF-SJcg3zQ))
 
 # SteamVR兼容性(OpenGloves)
 此项会用到OpenVR驱动程序去兼容SteamVR, 您可以到Steam下载:  
